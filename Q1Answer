@@ -1,0 +1,16 @@
+namespace CSharpAnswers
+{
+    
+public class Q1Victory{
+    public static void Main(string[] args){
+        for(int i = 0; i <22; i++){
+            System.Console.Write('/');
+        }
+        System.Console.WriteLine("\n|| Victory is mine! ||");
+        for(int i = 0; i <22; i++){
+            System.Console.Write('\\');
+        }
+    }
+}
+
+}
