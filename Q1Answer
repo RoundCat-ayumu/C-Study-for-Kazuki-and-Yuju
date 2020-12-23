@@ -1,6 +1,3 @@
-namespace CSharpAnswers
-{
-    
 public class Q1Victory{
     public static void Main(string[] args){
         for(int i = 0; i <22; i++){
@@ -11,6 +8,4 @@ public class Q1Victory{
             System.Console.Write('\\');
         }
     }
-}
-
 }
