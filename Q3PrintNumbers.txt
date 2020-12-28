@@ -16,6 +16,5 @@ PrintNumbersに渡される値は1以上であると仮定してもよい。
 */
 
 public static void PrintNumbers(int num){
-
 }
 
