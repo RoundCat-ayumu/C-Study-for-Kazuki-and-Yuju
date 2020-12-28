@@ -1,0 +1,4 @@
+public static void PrintNumbers(int num) {
+    for (int i = 1; i <= num; i++)
+        System.Console.Write("[" + i + "] ");
+}
